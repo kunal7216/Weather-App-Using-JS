@@ -1,3 +1,4 @@
+
 const wrapper = document.querySelector(".wrapper"),
   inputPart = document.querySelector(".input-part"),
   infoTxt = inputPart.querySelector(".info-txt"),
